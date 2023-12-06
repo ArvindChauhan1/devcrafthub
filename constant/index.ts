@@ -95,3 +95,184 @@ export const footerLinks = [
   },
 ];
 
+// export const TestPost = [
+//   node: {
+//     id: "id",
+//     image: "https://picsum.photos/400",
+//     title: "Test Card",
+//     name: "Test",
+//     userId: "user@test",
+//     description: "lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom ",
+//     websiteurl: "https://github.com/ArvindChauhan1",
+//     githuburl: "https://github.com/ArvindChauhan1",
+//     category: 1,
+//     createdBy: { avatarUrl: "https://picsum.photos/200/300" }
+//   },
+// ]
+export const TestPost = [
+  {
+    title: "test",
+    description: "lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom ",
+    image: "https://picsum.photos/400",
+    liveSiteUrl: "https://github.com/ArvindChauhan1",
+    githubUrl: "https://github.com/ArvindChauhan1",
+    category: "Frontend",
+    id: "fa",
+    createdBy: {
+      name: "testuser",
+      email: "test@test.info",
+      avatarUrl: "https://picsum.photos/200",
+      id: "fa1",
+    }
+  },
+  {
+    title: "test",
+    description: "lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom ",
+    image: "https://picsum.photos/400",
+    liveSiteUrl: "https://github.com/ArvindChauhan1",
+    githubUrl: "https://github.com/ArvindChauhan1",
+    category: "Frontend",
+    id: "fa",
+    createdBy: {
+      name: "testuser",
+      email: "test@test.info",
+      avatarUrl: "https://picsum.photos/200",
+      id: "fa1",
+    }
+  },
+  {
+    title: "test",
+    description: "lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom ",
+    image: "https://picsum.photos/400",
+    liveSiteUrl: "https://github.com/ArvindChauhan1",
+    githubUrl: "https://github.com/ArvindChauhan1",
+    category: "Frontend",
+    id: "fa",
+    createdBy: {
+      name: "testuser",
+      email: "test@test.info",
+      avatarUrl: "https://picsum.photos/200",
+      id: "fa1",
+    }
+  },
+  {
+    title: "test",
+    description: "lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom ",
+    image: "https://picsum.photos/400",
+    liveSiteUrl: "https://github.com/ArvindChauhan1",
+    githubUrl: "https://github.com/ArvindChauhan1",
+    category: "Frontend",
+    id: "fa",
+    createdBy: {
+      name: "testuser",
+      email: "test@test.info",
+      avatarUrl: "https://picsum.photos/200",
+      id: "fa1",
+    }
+  },
+  {
+    title: "test",
+    description: "lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom ",
+    image: "https://picsum.photos/400",
+    liveSiteUrl: "https://github.com/ArvindChauhan1",
+    githubUrl: "https://github.com/ArvindChauhan1",
+    category: "Frontend",
+    id: "fa",
+    createdBy: {
+      name: "testuser",
+      email: "test@test.info",
+      avatarUrl: "https://picsum.photos/200",
+      id: "fa1",
+    }
+  },
+  {
+    title: "test",
+    description: "lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom ",
+    image: "https://picsum.photos/400",
+    liveSiteUrl: "https://github.com/ArvindChauhan1",
+    githubUrl: "https://github.com/ArvindChauhan1",
+    category: "Frontend",
+    id: "fa",
+    createdBy: {
+      name: "testuser",
+      email: "test@test.info",
+      avatarUrl: "https://picsum.photos/200",
+      id: "fa1",
+    }
+  },
+  {
+    title: "test",
+    description: "lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom ",
+    image: "https://picsum.photos/400",
+    liveSiteUrl: "https://github.com/ArvindChauhan1",
+    githubUrl: "https://github.com/ArvindChauhan1",
+    category: "Frontend",
+    id: "fa",
+    createdBy: {
+      name: "testuser",
+      email: "test@test.info",
+      avatarUrl: "https://picsum.photos/200",
+      id: "fa1",
+    }
+  },
+  {
+    title: "test",
+    description: "lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom ",
+    image: "https://picsum.photos/400",
+    liveSiteUrl: "https://github.com/ArvindChauhan1",
+    githubUrl: "https://github.com/ArvindChauhan1",
+    category: "Frontend",
+    id: "fa",
+    createdBy: {
+      name: "testuser",
+      email: "test@test.info",
+      avatarUrl: "https://picsum.photos/200",
+      id: "fa1",
+    }
+  },
+  {
+    title: "test",
+    description: "lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom ",
+    image: "https://picsum.photos/400",
+    liveSiteUrl: "https://github.com/ArvindChauhan1",
+    githubUrl: "https://github.com/ArvindChauhan1",
+    category: "Frontend",
+    id: "fa",
+    createdBy: {
+      name: "testuser",
+      email: "test@test.info",
+      avatarUrl: "https://picsum.photos/200",
+      id: "fa1",
+    }
+  },
+  {
+    title: "test",
+    description: "lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom ",
+    image: "https://picsum.photos/400",
+    liveSiteUrl: "https://github.com/ArvindChauhan1",
+    githubUrl: "https://github.com/ArvindChauhan1",
+    category: "Frontend",
+    id: "fa",
+    createdBy: {
+      name: "testuser",
+      email: "test@test.info",
+      avatarUrl: "https://picsum.photos/200",
+      id: "fa1",
+    }
+  },
+  {
+    title: "test",
+    description: "lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom lorem ipsom ",
+    image: "https://picsum.photos/400",
+    liveSiteUrl: "https://github.com/ArvindChauhan1",
+    githubUrl: "https://github.com/ArvindChauhan1",
+    category: "Frontend",
+    id: "fa",
+    createdBy: {
+      name: "testuser",
+      email: "test@test.info",
+      avatarUrl: "https://picsum.photos/200",
+      id: "fa1",
+    }
+  },
+]

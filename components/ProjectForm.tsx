@@ -39,7 +39,10 @@ const ProjectForm = ({ type, session, project }: Props) => {
 
         const file = e.target.files?.[0];
 
-        if (!file) return;
+        if (!file) {
+            console.log("not file")
+            return;
+        }
 
         if (!file.type.includes('image')) {
             alert('Please upload an image!');
@@ -113,7 +116,7 @@ const ProjectForm = ({ type, session, project }: Props) => {
             <FormField
                 title="Title"
                 state={form.title}
-                placeholder="devcraft-hub"
+                placeholder="devtechhub"
                 setState={(value) => handleStateChange('title', value)}
             />
 

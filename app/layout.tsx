@@ -1,9 +1,10 @@
 import "./globals.css";
 import Footer from "@/components/Footer";
+import LandingPage from "@/components/LandingPage";
 import Navbar from "@/components/Navbar";
 
 export const metadata = {
-  title: "devcraft-hub",
+  title: "devtechhub",
   description: "Showcase and discover remarkable developer projects",
 };
 

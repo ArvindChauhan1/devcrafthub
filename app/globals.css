@@ -164,3 +164,12 @@ body {
 .profile_projects {
   @apply grid xl:grid-cols-4 md:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-8 mt-5;
 }
+
+/* image blurr */
+.image-blurred-edge {
+  background-image: url('https://picsum.photos/200/300');
+  width: 200px;
+  height: 200px;
+  /* you need to match the shadow color to your background or image border for the desired effect*/
+  box-shadow: 0 0 8px 8px white inset;
+}

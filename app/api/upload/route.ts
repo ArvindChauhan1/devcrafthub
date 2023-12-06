@@ -22,7 +22,9 @@ export async function POST(request: Request) {
       transformation: [{ width: 1000, height: 752, crop: "scale" }],
     };
 
+    console.log(options)
     const result = await cloudinary.uploader.upload(path, options);
+    console.log(result)
 
     return NextResponse.json(result, { status: 200 });
   } catch (error) {
